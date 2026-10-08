@@ -83,12 +83,3 @@ div button{
     border-color: blue;
     
 }
-.circle{
-    display: flex;
-    border-radius: 50%;
-    color: black;
-    background-color: antiquewhite;
-    height: 30px;
-    width: 30px;
-    
-}
